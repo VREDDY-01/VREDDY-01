@@ -29,8 +29,6 @@ I'm passionate about software development, creating websites, building scalable 
 
 - AWS Cloud Practitioner Certification
 - Data Structures & Algorithms In Java
-- Spring Boot Framework
-- System Design
 
 ## 💼 Technical Skills
 
@@ -51,7 +49,6 @@ I'm passionate about software development, creating websites, building scalable 
 
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&color=orange)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
